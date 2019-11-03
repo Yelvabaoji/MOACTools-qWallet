@@ -1,5 +1,4 @@
-// const CHAIN3_URL = 'http://47.92.110.121:8545'
-const CHAIN3_URL = 'http://192.168.1.2:8545'
+const CHAIN3_URL = 'http://localhost:8545'
 
 import Vue from 'vue'
 import VueRouter from 'vue-router'

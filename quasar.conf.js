@@ -83,7 +83,7 @@ module.exports = function (ctx) {
       // https: true,
       // port: 8080,
       port: 8031,
-      host: '192.168.1.2',
+      host: '127.0.0.1',
       open: true // opens browser window automatically
     },
 
